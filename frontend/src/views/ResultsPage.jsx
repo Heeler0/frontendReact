@@ -28,7 +28,7 @@ export default class ResultsPage extends Component{
                 {response
                     ?
                     <jumbotron>
-                    <div style={{width: "100%", height: "30vh"}}>
+                    <div style={{width: "100%", height: "15vh"}}>
                     <h1 align="center">
                         Results
                     </h1>
